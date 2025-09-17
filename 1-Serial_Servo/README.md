@@ -1,8 +1,5 @@
 # Serial Controlled Servo (ESP32)
 
-![Project Image](Project-img.jpg)  
-
-
 ---
 
 ## Project Info
@@ -86,6 +83,13 @@ Useful for:
 - **Instagram** : [@justelectronicx](https://www.instagram.com/justelectronicx)  
 - **YouTube** : [JustElectronicX](https://www.youtube.com/@justelectronicx)  
 - **Linktree** : [linktr.ee/justelectronicx](https://linktr.ee/justelectronicx)  
+
+---
+
+## Project IMG
+<div align="center">
+  <img src="Project-img.jpg" alt="Project Image" width="50%">
+</div>
 
 ---
 
